@@ -43,7 +43,7 @@ joblib==0.13.2
 jsonfield==2.0.2
 kiwisolver==1.1.0
 kombu==4.5.0
-lxml==4.3.3
+lxml==4.6.3
 Markdown==3.1.1
 matplotlib==3.1.0
 monotonic==1.5
